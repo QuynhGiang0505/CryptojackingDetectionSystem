@@ -17,4 +17,5 @@ Sau đó thực hiện: sudo npm install
 
 ##############################################################
 
-Thực hiện thu thập các Wasm module từ một list các trang web (url)
+Link demo 
+https://uithcm-my.sharepoint.com/:v:/g/personal/19520500_ms_uit_edu_vn/EaZweJDC5DtArmbx6y0v8TYBBvKCl107ObtR5sGvc_gL-A?e=H5RSdy
